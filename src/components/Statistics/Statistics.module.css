@@ -1,0 +1,16 @@
+.statistics {
+  text-align: center;
+}
+
+.item {
+  display: inline-block;
+  margin: 10px;
+  box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+  border-radius: 4px;
+  background-color: rgb(252, 241, 241);
+}
+
+.percentage {
+  display: block;
+  padding: 5px;
+}

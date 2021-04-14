@@ -1,0 +1,15 @@
+.item {
+  margin-bottom: 10px;
+  margin-right: 10px;
+  background-color: tomato;
+  border-radius: 4px;
+}
+
+.avatar {
+  width: 100px;
+  padding: 10px;
+}
+
+.online {
+  background-color: rgb(196, 238, 132);
+}
