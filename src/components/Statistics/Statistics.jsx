@@ -15,9 +15,9 @@ const Statistic = ({ title, stats }) => {
     </section>);
 }
 
-Statistic.defaultProps = {
-  title: ''
-};
+// Statistic.defaultProps = {
+//   title: ''
+// };
 
 Statistic.propTypes = {
   title: PropTypes.string,
